@@ -1,5 +1,5 @@
 # DL-DIY potential project ideas
-- try out out-of-distribution detection on CamVid-OOD semantic segmentation [[original train set](https://github.com/valeoai/obsnet/releases/tag/CamVidOOD)] [[OOD test set](https://github.com/valeoai/obsnet/releases/tag/CamVidOOD)]
+- try out out-of-distribution detection on CamVid-OOD semantic segmentation [[original train set](https://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)] [[OOD test set](https://github.com/valeoai/obsnet/releases/tag/CamVidOOD)]
 - for image classification assess the impact of mixing techniques (mixup, cutmix, etc.) on performance 
 - train improved model and evaluate performance on distribution shift settings, e.g., [CIFAR-C](https://github.com/hendrycks/robustness)
 
